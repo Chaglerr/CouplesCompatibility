@@ -1,5 +1,5 @@
 import {type ChangeEvent, type FormEvent, useMemo, useState} from 'react';
-import './App.css'
+import './App.css';
 
 type BirthTime = {
   hour: number;

@@ -1,8 +1,7 @@
 import {createContext, ReactNode} from 'react';
 import {observer} from 'mobx-react-lite';
 
-export class RootUiStore {
-}
+export class RootUiStore {}
 
 const ROOT_UI_STORE = new RootUiStore();
 

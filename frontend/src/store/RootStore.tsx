@@ -1,8 +1,7 @@
 import {createContext, ReactNode} from 'react';
 
 export class RootStore {
-  constructor() {
-  }
+  constructor() {}
 }
 
 const ROOT_STORE = new RootStore();
