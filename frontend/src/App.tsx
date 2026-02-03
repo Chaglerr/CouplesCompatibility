@@ -1,4 +1,18 @@
 import {type ChangeEvent, type FormEvent, useMemo, useState} from 'react';
+
+export type AppState =
+  | 'splash'
+  | 'wash-selection'
+  | 'payment-selection'
+  | 'payment'
+  | 'waiting-screen'
+  | 'payment-result'
+  | 'wash-in-progress'
+  | 'out-of-order'
+  | 'reversal'
+  | 'leave-number-discount'
+  | 'phone-number-input'
+  | 'busy';
 import './App.css';
 
 type BirthTime = {
@@ -68,8 +82,8 @@ const buildPayload = (form: FormState) => {
 
 const localFallback = (form: FormState): CompatibilityResponse => {
   const toScore = (date: string, hour: string, minute: string) => {
-    const digits = date.replaceAll('-', '').split('');
-    let total = digits.reduce((sum, digit) => sum + Number(digit), 0);
+    const digits = date.split('-').join('').split('');
+    let total = digits.reduce((sum: number, digit: string) => sum + Number(digit), 0);
     total += Number(hour || 0) + Number(minute || 0);
     return total;
   };
