@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="486.029" height="486.029" viewBox="0 0 486.029 486.029">
+  <g id="Group_21" data-name="Group 21" transform="translate(-2714.323 -845.436)">
+    <g id="Group_19" data-name="Group 19">
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="372.022" height="248.141" rx="23.632" transform="translate(2889.785 892.943) rotate(45)" fill="#1b68f7"/>
+      <g id="Group_17" data-name="Group 17">
+        <rect id="Rectangle_10" data-name="Rectangle 10" width="24.804" height="301.124" transform="matrix(0.707, -0.707, 0.707, 0.707, 2764.04, 1068.82)" fill="#c8e6f0"/>
+      </g>
+      <g id="Group_18" data-name="Group 18">
+        <rect id="Rectangle_11" data-name="Rectangle 11" width="24.804" height="123.966" transform="translate(2797.463 1035.398) rotate(-45)" fill="#c8e6f0"/>
+      </g>
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="59.081" height="82.714" rx="14.335" transform="matrix(0.707, -0.707, 0.707, 0.707, 2985.738, 1139.292)" fill="#c8e6f0"/>
+    </g>
+    <g id="Group_20" data-name="Group 20">
+      <path id="Path_16" data-name="Path 16" d="M3017.7,910.223a117.732,117.732,0,0,1,117.867,117.866" fill="none" stroke="#1b68f7" stroke-miterlimit="10" stroke-width="24.801"/>
+      <path id="Path_17" data-name="Path 17" d="M3017.7,962.577a65.512,65.512,0,0,1,65.513,65.512" fill="none" stroke="#1b68f7" stroke-miterlimit="10" stroke-width="24.801"/>
+      <path id="Path_18" data-name="Path 18" d="M3017.7,857.837a170.062,170.062,0,0,1,170.253,170.252" fill="none" stroke="#1b68f7" stroke-miterlimit="10" stroke-width="24.801"/>
+    </g>
+  </g>
+</svg>

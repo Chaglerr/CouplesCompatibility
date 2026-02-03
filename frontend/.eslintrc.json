@@ -1,0 +1,7 @@
+{
+  "extends": ["./node_modules/gts", "prettier"],
+  "plugins": ["prettier"],
+  "rules": {
+    "no-constant-condition": ["error", { "checkLoops": false }]
+  }
+}

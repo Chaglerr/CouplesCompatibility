@@ -1,0 +1,21 @@
+:root {
+  --splash-bg: #595e5c;
+  --plate-number-bg: #ffffff;
+  --plate-number-text: #000000;
+  --plate-number-border: #000000;
+  --primary: #1b68f7;
+  --main-bg: #c8e6f0;
+  --text-color: #1f2123;
+  --secondary-text-color: #ffffff;
+  --details-bg: #dcdbdb;
+  --duration-bg: #e3e3e3;
+  --inactive-text-color: #bdbdbd;
+  --out-of-order-bg: #1f2123;
+  --tertiary-text-color: #f71d4c;
+  --bog-button-bg: #ff600a;
+  --splash-secondary-bg: #c8e6f0;
+  --discount-yellow: #f5b91e;
+  --button-black: #1e2123;
+  --cancelled-text: #8eb4fb;
+  --cancelled-bg: #e3f3f8;
+}

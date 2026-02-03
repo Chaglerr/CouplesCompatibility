@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: VisbyCF-Bold, 'Visby CF';
+        font-size: 87px;
+        font-weight: 700;
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        fill: #e3f3f8;
+      }
+
+      .cls-4 {
+        fill: #1b68f7;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="25.23" y="54.66" width="144.5" height="91.68"/>
+    </clipPath>
+  </defs>
+  <g class="cls-5">
+    <path id="Path_110" data-name="Path 110" class="cls-4" d="M169.73,63.34v74.32c0,4.79-3.89,8.68-8.68,8.67h-93.3c-2.44,0-4.77-1.03-6.42-2.83l-33.84-37.16c-3.02-3.31-3.02-8.38,0-11.69l33.85-37.16c1.64-1.81,3.97-2.84,6.41-2.84h93.3c4.79,0,8.68,3.88,8.68,8.67h0"/>
+  </g>
+  <text class="cls-2" transform="translate(85.07 123)"><tspan x="0" y="0">x</tspan></text>
+</svg>
