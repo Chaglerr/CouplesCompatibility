@@ -1,19 +1,5 @@
 import {type ChangeEvent, type FormEvent, useMemo, useState} from 'react';
-
-export type AppState =
-  | 'splash'
-  | 'wash-selection'
-  | 'payment-selection'
-  | 'payment'
-  | 'waiting-screen'
-  | 'payment-result'
-  | 'wash-in-progress'
-  | 'out-of-order'
-  | 'reversal'
-  | 'leave-number-discount'
-  | 'phone-number-input'
-  | 'busy';
-import './App.css';
+import './App.css'
 
 type BirthTime = {
   hour: number;
